@@ -28,7 +28,7 @@ const ProductTable = () => {
             <Table.Column>$49.99</Table.Column>
         </Table.Row>
         <Table.Row>
-            <Table.Column>Basketballs</Table.Column>
+            <Table.Column>Basketball</Table.Column>
             <Table.Column>$49.99</Table.Column>
         </Table.Row>
         <Table.Row>
